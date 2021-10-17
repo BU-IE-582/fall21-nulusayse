@@ -10,4 +10,4 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[https://bu-ie-582.github.io/fall21-nulusayse/](url) and ![Image](src)
+[Progress Journal Website](https://bu-ie-582.github.io/fall21-nulusayse/) and ![Image](src)
