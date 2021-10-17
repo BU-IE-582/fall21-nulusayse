@@ -2,7 +2,7 @@
 ## Created for IE 582 by Ayşe Sülün.
 
 _There will be several homework assignments done for this course._
-### `[github](https://github.com/BU-IE-582/fall21-nulusayse/blob/gh-pages/index.md)`
+
 
 - Bulleted
 - List
