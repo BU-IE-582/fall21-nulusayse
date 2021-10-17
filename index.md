@@ -1,7 +1,7 @@
-# Progress Journal
+# **Progress Journal**
 ## Created for IE 582 by Ayşe Sülün.
 
-There will be several homework assignments done for this course.
+_There will be several homework assignments done for this course._
 ### Header 3
 
 - Bulleted
