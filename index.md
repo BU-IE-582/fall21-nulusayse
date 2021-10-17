@@ -1,5 +1,5 @@
 # **Progress Journal**
-## Created for IE 582 by Ayşe Sülün.
+## - Created for IE 582 by Ayşe Sülün.
 
 _There will be several homework assignments done for this course._
 ### Header 3
@@ -14,10 +14,4 @@ _There will be several homework assignments done for this course._
 
 [Progress Journal Website](https://bu-ie-582.github.io/fall21-nulusayse/) and ![Image](src)
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
