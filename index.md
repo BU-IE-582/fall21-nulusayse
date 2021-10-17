@@ -1,5 +1,5 @@
-# Ayşe Sülün's Progress Journal
-## Created for IE 582.
+# Progress Journal
+## Created for IE 582 by Ayşe Sülün.
 ### Header 3
 
 - Bulleted
