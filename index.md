@@ -1,5 +1,5 @@
-# Header 1
-## Header 2
+# Ayşe Sülün's Progress Journal
+## Created for IE 582.
 ### Header 3
 
 - Bulleted
