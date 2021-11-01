@@ -8,8 +8,8 @@ _There are several homework assignments done for IE582 course in this page._
 
 ## Homework Assignments
 ### Homework Assignment 1
-You can read all assignment from:
+_You can read all assignment from:_
 * [Assignment](https://bu-ie-582.github.io/fall21-nulusayse/IE582_Fall21_Homework1.pdf)
-You can reach html and jpynb files from:
+_You can reach html and jpynb files from:_
 * [HTML](https://bu-ie-582.github.io/fall21-nulusayse/HOMEWORK1.html)
 * [Jupyter Notebook](https://bu-ie-582.github.io/fall21-nulusayse/HOMEWORK1.ipynb)
