@@ -10,5 +10,5 @@ _There will be several homework assignments done for this course._
 ## Homework Assignments
 ### Homework Assignment 1
 * [Tasks](https://bu-ie-582.github.io/fall20-ilaydacelenk/IE582_Fall20_Homework_1.pdf)
-* [HTML](https://bu-ie-582.github.io/fall20-ilaydacelenk/Homework1.html)
+* [HTML](https://bu-ie-582.github.io/fall20-ilaydacelenk/HOMEWORK1.html)
 * [Jupyter Notebook](https://bu-ie-582.github.io/fall20-ilaydacelenk/HOMEWORK1.ipynb)
