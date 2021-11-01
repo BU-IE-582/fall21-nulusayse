@@ -10,3 +10,4 @@ _There will be several homework assignments done for this course._
 ## Homework Assignments
 ### Homework Assignment 1
 * [Tasks](files/IE582_Fall20_Homework_1.pdf)
+* [Results](files/IE582 - HOMEWORK 1.html)
