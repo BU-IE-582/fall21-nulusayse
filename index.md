@@ -10,4 +10,4 @@ _There will be several homework assignments done for this course._
 ## Homework Assignments
 ### Homework Assignment 1
 * [Tasks](files/IE582_Fall20_Homework_1.pdf)
-* [Results](files/Homework1.html)
+* [Results](https://bu-ie-582.github.io/fall21-nulusayse/files/Homework1.html)
