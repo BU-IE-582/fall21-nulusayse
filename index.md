@@ -1,3 +1,4 @@
+#Progress Journal
 ### Created for IE 582 by Ayşe Sülün.
 
 _There are several homework assignments done for IE582 course in this page._
