@@ -10,4 +10,5 @@ _There will be several homework assignments done for this course._
 ## Homework Assignments
 ### Homework Assignment 1
 * [Tasks](files/IE582_Fall20_Homework_1.pdf)
-* [Results](https://bu-ie-582.github.io/fall21-nulusayse/files/Homework1.html)
+* [HTML](https://bu-ie-582.github.io/fall21-nulusayse/files/Homework1.html)
+* [Jupyter Notebook](https://bu-ie-582.github.io/fall21-nulusayse/files/HOMEWORK1.ipynb)
