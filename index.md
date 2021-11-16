@@ -15,5 +15,5 @@ _There are several homework assignments done for IE582 course in this page._
 
 ### Homework Assignment 2
 * [Assignment](https://bu-ie-582.github.io/fall21-nulusayse/IE582_Fall21_Homework2.pdf)
-* [HTML](https://bu-ie-582.github.io/fall21-nulusayse/HOMEWORK 2.html)
-* [Jupyter Notebook](https://bu-ie-582.github.io/fall21-nulusayse/HOMEWORK 2.ipynb)
+* [HTML](https://bu-ie-582.github.io/fall21-nulusayse/HOMEWORK2.html)
+* [Jupyter Notebook](https://bu-ie-582.github.io/fall21-nulusayse/HOMEWORK2.ipynb)
